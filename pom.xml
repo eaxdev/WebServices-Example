@@ -12,6 +12,7 @@
         <module>jaxws</module>
         <module>springws</module>
         <module>springwsclient</module>
+        <module>spellersoap</module>
     </modules>
 
     <parent>
